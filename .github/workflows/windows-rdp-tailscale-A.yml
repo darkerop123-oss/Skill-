@@ -96,7 +96,7 @@ jobs:
 
   rdp:
 
-    runs-on: windows-2025
+    runs-on: windows-latest
 
     timeout-minutes: 370
 
